@@ -1,3 +1,4 @@
 # movie-website
 
-## project link: https://mariem25.github.io/movie-website/
+## project link: https://mariem-abdalwahab.github.io/movie-website/
+      
